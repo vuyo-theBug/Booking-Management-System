@@ -1,0 +1,13 @@
+C:\Users\Student\Group26\obj\Debug\Group26.Admin.resources
+C:\Users\Student\Group26\obj\Debug\Group26.Form1.resources
+C:\Users\Student\Group26\obj\Debug\Group26.Optometrist.resources
+C:\Users\Student\Group26\obj\Debug\Group26.Receptionist.resources
+C:\Users\Student\Group26\obj\Debug\Group26.Properties.Resources.resources
+C:\Users\Student\Group26\obj\Debug\Group26.csproj.GenerateResource.cache
+C:\Users\Student\Group26\obj\Debug\Group26.csproj.CoreCompileInputs.cache
+C:\Users\Student\Group26\bin\Debug\Group26.exe.config
+C:\Users\Student\Group26\bin\Debug\Group26.exe
+C:\Users\Student\Group26\bin\Debug\Group26.pdb
+C:\Users\Student\Group26\obj\Debug\Group26.exe
+C:\Users\Student\Group26\obj\Debug\Group26.pdb
+C:\Users\Student\Group26\obj\Debug\Group26.csproj.AssemblyReference.cache
